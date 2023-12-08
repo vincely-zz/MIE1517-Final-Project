@@ -29,5 +29,6 @@ The following code shows our walkthrough of from data loading to implementation 
 
 # **File Description**
 
-* filtered_img.zip - Include all cat breeds we used in our project. **Note: We mannually filtered the images, for example by removing duplicate images or deleting irrelevant images.**
+* filtered_img.zip - Avaliable at https://www.dropbox.com/scl/fo/qykw4svh02d4a8770kxpm/h?rlkey=mqwywmarlrcvvwvx2ciie9194&dl=0
+  - Include all cat breeds we used in our project. **Note: We mannually filtered the images, for example by removing duplicate images or deleting irrelevant images.**
 * Testing Data - Include new data/images which tested on our final model for performance
