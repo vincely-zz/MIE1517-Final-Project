@@ -1,4 +1,4 @@
-# **MIE1517-Final-Project**
+# **MIE1517-Final-Project - Cat Classification**
 ### Group 8
 
 **Group Members:**
