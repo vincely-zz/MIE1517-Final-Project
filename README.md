@@ -26,3 +26,8 @@ Our model is vital to people like animal shelters employees and researchers. Ani
 We have great interest in this because it easily lets people know about cat breeds through images or videos.
 
 The following code shows our walkthrough of from data loading to implementation and prediction step-by-step.
+
+# **File Description**
+
+* filtered_img.zip - Include all cat breeds we used in our project. **Note: We mannually filtered the images, for example by removing duplicate images or deleting irrelevant images.**
+* Testing Data - Include new data/images which tested on our final model for performance
